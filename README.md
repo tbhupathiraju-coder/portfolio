@@ -1,2 +1,4 @@
 # portfolio
-portfolio project on me!
+portfolio project on the Eastern Cottontail! My project is an informational website that tells users some of the habits and lifestyles about the Eastern Cottontail! I made this project because the Eastern Cottontail is my favorite animal and I wanted to make a green aesethic website, and this seemed to nicely go hand in hand. I made this project using html and css where I typed headings and paragraphs and made simple clean looks as a website with a box, with a paragraph on top and image underneath. I struggled with laying out the boxes and sections to work how I wanted to and learnt new parts of code such a rgpa and ease. I also learnt how simple website can still look really neat!
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
