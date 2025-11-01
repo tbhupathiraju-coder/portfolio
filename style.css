@@ -20,3 +20,18 @@ headerh2{
     font-size: 1.3rem;
     color: #3f5e3f;
 }
+section{
+    background-color: #ffffff;
+    margin-bottom: 40px;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgpa(0, 0, 0, 0.1);
+}
+h2{
+    color: #2e7d32;
+    margin-bottom: 15px;
+}
+p{
+    font-size: 1.05rem;
+    margin-bottom: 15px;
+}
